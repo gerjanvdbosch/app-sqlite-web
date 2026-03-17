@@ -14,5 +14,6 @@ arch:
 map:
   - homeassistant_config:rw
   - share:rw
+  - all_addon_configs:rw
 schema:
   database: "str?"
